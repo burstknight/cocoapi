@@ -21,7 +21,6 @@ For pip install:
 pip install cython
 pip install opencv-python pillow matplotlib
 pip install git+https://github.com/haotian-liu/cocoapi.git#"egg=pycocotools&subdirectory=PythonAPI"
-pip install GitPython termcolor tensorboard
 ```
 
 ## Contact
